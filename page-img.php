@@ -8,7 +8,7 @@
 ?>
 <!-- 
 作者：夏目贵志
-https://github.com/616620131/photo-page-for-typecho
+https://xiamuyourenzhang.cn/article/35.html
 时间:2021-02-26 版权所有，请勿删除 
 -->
 <!-- jsdelivr公共CDN -->
